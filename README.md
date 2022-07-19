@@ -1,6 +1,6 @@
 # python-ndn-gm，国密版的Python NDN底层基础库
 ==========
-相关文档请参见目录https://git.pcl.ac.cn/Network-Security/Docs/src/branch/master/PythonNDN。
+
 
 **python-ndn-gm**为支持SM2, SM3, SM4等国密算法与模式及密钥与证书管理的国密版PythonNDN软件库，包括25种算法及模式，支持的算法种类与NDN-CXX版本相同。
 另外，国密版的python-ndn-gm,还支持密钥导入与导出命令，详情见代码，操作方式与NDN-CXX的密钥导入与导出命令类似，生成的密钥及Safbag与NDN-CXX版本相同，可以相互使用。
